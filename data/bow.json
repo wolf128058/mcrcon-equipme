@@ -1,0 +1,27 @@
+{
+  "type": "bow",
+  "amount": 1,
+  "properties": {
+    "display": {
+      "Name": "Pfeilwerfer"
+    },
+    "Enchantments": [
+      {
+        "id": "unbreaking",
+        "lvl": 10
+      },
+      {
+        "id": "power",
+        "lvl": 10
+      },
+      {
+        "id": "punch",
+        "lvl": 10
+      },
+      {
+        "id": "mending",
+        "lvl": 1
+      }
+    ]
+  }
+}

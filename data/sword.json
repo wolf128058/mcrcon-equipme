@@ -1,0 +1,35 @@
+{
+    "type": "netherite_sword",
+    "amount": 1,
+    "properties": {
+      "display": {
+        "Name": "Mondklinge"
+      },
+      "Enchantments": [
+        {
+          "id": "unbreaking",
+          "lvl": 10
+        },
+        {
+          "id": "mending",
+          "lvl": 1
+        },
+        {
+          "id": "knockback",
+          "lvl": 10
+        },
+        {
+          "id": "fire_aspect",
+          "lvl": 1
+        },
+        {
+          "id": "looting",
+          "lvl": 1
+        },
+        {
+          "id": "sweeping",
+          "lvl": 1
+        }
+      ]
+    }
+  }

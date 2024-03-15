@@ -1,0 +1,27 @@
+{
+  "type": "netherite_hoe",
+  "amount": 1,
+  "properties": {
+    "display": {
+      "Name": "Harvester"
+    },
+    "Enchantments": [
+      {
+        "id": "efficiency",
+        "lvl": 10
+      },
+      {
+        "id": "unbreaking",
+        "lvl": 10
+      },
+      {
+        "id": "fortune",
+        "lvl": 10
+      },
+      {
+        "id": "mending",
+        "lvl": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+    "bin": "/usr/local/bin/mcrcon",
+    "host": "127.0.0.1",
+    "port": 25575,
+    "password": "getyourownone!",
+    "player": "TheGiftedOne"
+  }

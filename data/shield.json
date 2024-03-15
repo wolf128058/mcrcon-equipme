@@ -1,0 +1,48 @@
+{
+    "type": "minecraft:shield",
+    "amount": 1,
+    "properties": {
+      "display": {
+        "Name": "BumsSchutz"
+      },
+      "Enchantments": [
+        {
+          "id": "unbreaking",
+          "lvl": 10
+        },
+        {
+          "id": "mending",
+          "lvl": 1
+        }
+      ],
+      "BlockEntityTag": {
+        "Base": 0,
+        "Patterns": [
+          {
+            "Color": 8,
+            "Pattern": "ss"
+          },
+          {
+            "Color": 14,
+            "Pattern": "mc"
+          },
+          {
+            "Color": 6,
+            "Pattern": "hhb"
+          },
+          {
+            "Color": 8,
+            "Pattern": "ls"
+          },
+          {
+            "Color": 8,
+            "Pattern": "rs"
+          },
+          {
+            "Color": 6,
+            "Pattern": "bts"
+          }
+        ]
+      }
+    }
+  }

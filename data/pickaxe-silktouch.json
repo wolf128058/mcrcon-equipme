@@ -1,0 +1,37 @@
+{
+  "type": "netherite_pickaxe",
+  "amount": 1,
+  "properties": {
+    "display": {
+      "Name": "Zartklopper"
+    },
+    "Enchantments": [
+      {
+        "id": "efficiency",
+        "lvl": 10
+      },
+      {
+        "id": "unbreaking",
+        "lvl": 10
+      },
+      {
+        "id": "unbreaking",
+        "lvl": 10
+      },
+      {
+        "id": "fortune",
+        "lvl": 10
+      },
+      {
+        "id": "silk_touch",
+        "lvl": 10
+      },
+      {
+        "id": "mending",
+        "lvl": 1
+      }
+    ]
+  }
+}
+
+

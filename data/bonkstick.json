@@ -1,0 +1,23 @@
+{
+    "type": "stick",
+    "amount": 1,
+    "properties": {
+      "display": {
+        "Name": "Bonk-Stick"
+      },
+      "Enchantments": [
+        {
+          "id": "unbreaking",
+          "lvl": 10
+        },
+        {
+          "id": "mending",
+          "lvl": 1
+        },
+        {
+          "id": "knockback",
+          "lvl": 10
+        }
+      ]
+    }
+  }
